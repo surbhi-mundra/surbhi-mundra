@@ -2,7 +2,7 @@
 - 👀 I’m interested in devloping solutions to address real-world challenges.
 - 🌱 I’m currently learning how to code and be a better problem addresser.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 Email-(mailto:surbhi.mundra.84@gmail.com)  LinkedIn- www.linkedin.com/in/surbhi-mundra--
+- 📫 Email-surbhi.mundra.84@gmail.com  LinkedIn- www.linkedin.com/in/surbhi-mundra--
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can actually sing!
 
