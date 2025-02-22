@@ -8,7 +8,7 @@ Hi! I'm a **BTech AI student** passionate about **technology, problem-solving, a
 - 🏆 **Leadership & Strategic Thinking** – Tackling problems from all angles.
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, C, JavaScript(still learning and getting better every day)
+- **Languages:** Python, C, JavaScript (still learning and getting better every day)
 - **Development:** HTML, CSS, GSAP
 - **Tools & Platforms:** VS Code
 
@@ -19,7 +19,7 @@ Hi! I'm a **BTech AI student** passionate about **technology, problem-solving, a
 💡 I believe in the **manifestation** equally as i believe in **power of technology**  to shape the future, and I'm always open to new opportunities and collaborations!
 
 📫 **Let's Connect!**  
-[LinkedIn](www.linkedin.com/in/surbhi-mundra--) • [Twitter](https://x.com/SurbhiMundra_?t=40hq8YriSlnEZw33emvQvw&s=08 )
+[LinkedIn](www.linkedin.com/in/surbhi-mundra--) • [X](https://x.com/SurbhiMundra_?t=40hq8YriSlnEZw33emvQvw&s=08 )
 
 
 💻 *Eat. Code. Innovate. Sleep.* 🚀
