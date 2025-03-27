@@ -16,10 +16,10 @@ Hi! I'm a **BTech AI student** passionate about **technology, problem-solving, a
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbhi-mundra&show_icons=true&theme=radical)
 
   ### ✨ Fun Fact
-💡 I believe in the **KARMA** equally as I believe in **power of technology**  to shape the future, and I'm always open to new opportunities and collaborations!
+💡 I believe in the **power of technology** equally as I believe in **KARMA** to shape the future, and I'm always open to new opportunities and collaborations!
 
 📫 **Let's Connect!**  
-[LinkedIn](www.linkedin.com/in/surbhi-mundra--) • [X](https://x.com/SurbhiMundra_?t=40hq8YriSlnEZw33emvQvw&s=08 )
+[LinkedIn](www.linkedin.com/in/surbhi-mundra--) • [X](https://x.com/SurbhiMundra_?t=40hq8YriSlnEZw33emvQvw&s=08 ) • [Mail](surbhimundra.sm10@gmail.com)
 
 
 💻 *Eat. Code. Innovate. Sleep.* 🚀
