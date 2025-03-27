@@ -19,7 +19,7 @@ Hi! I'm a **BTech AI student** passionate about **technology, problem-solving, a
 💡 I believe in the **power of technology** equally as I believe in **KARMA** to shape the future, and I'm always open to new opportunities and collaborations!
 
 📫 **Let's Connect!**  
-[LinkedIn](www.linkedin.com/in/surbhi-mundra--) • [X](https://x.com/SurbhiMundra_?t=40hq8YriSlnEZw33emvQvw&s=08 ) • [Mail](surbhimundra.sm10@gmail.com)
+[LinkedIn](www.linkedin.com/in/surbhi-mundra--) • [X](https://x.com/SurbhiMundra_?t=40hq8YriSlnEZw33emvQvw&s=08 ) • [Mail](mailto:surbhimundra.sm10@gmail.com)
 
 
 💻 *Eat. Code. Innovate. Sleep.* 🚀
